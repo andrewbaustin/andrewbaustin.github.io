@@ -1,5 +1,12 @@
 <head>
-  <title>Drew Austin</title>
+  {% if page.title %}
+    <title>{{ page.title }} | Kneeling Bus</title>
+  {% else %}
+    <title>Kneeling Bus</title>
+  {% endif %}
+  <link href="/images/logo.png" rel="icon">
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="You're spoiling all the paintwork">
   <link rel="stylesheet" href="/css/main.css">
 </head>
