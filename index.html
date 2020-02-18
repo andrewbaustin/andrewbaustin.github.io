@@ -2,27 +2,9 @@
 layout: default
 ---
 
-<div class="home">
-<div class="full-hero hero-home">
-  <div class="hero-content">
-    <h1>Kneeling Bus</h1>
-    <ul class="social-list">
-      <li>
-        <a href="https://twitter.com/kneelingbus" class="social-link">Tw</a>
-      </li>
-      <li>
-        <a href="https://www.instagram.com/drewaustin.wav/" class="social-link">Ig</a>
-      </li>
-      <li>
-        <a href="https://github.com/andrewbaustin" class="social-link">Gh</a>
-      </li>
-    </ul>
-  </div>
-</div>
-
-<div class="home-callout">
-  <h1 class="callout-title">Kneeling Bus</h1>
-  <div class="callout-copy">
+<div>
+  <h2>Kneeling Bus</h2>
+  <div>
     <p>
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
@@ -35,31 +17,15 @@ layout: default
   </div>
 </div>
 
-<div class="home-section">
-  <h4>Most recent post</h4>
-  <div class="blog-posts">
-    <header class="post-header">
-      <h2>
-        <a href="{{ site.posts.first.url }}">
-        {{ site.posts.first.title }}</a>
-      </h2>
-      <div class="post-byline">
-        <a href="{{ site.posts.first.authorTwitter }}"
-        class="social-link">Tw</a>
-        by: {{ site.posts.first.author }}
-        <span> - {{ site.posts.first.date | date: '%B %d, %Y' }}</span>
-      </div>
-    </header>
-    <div class="posts-image"
-    style="background-image:url({{ site.posts.first.postHero }})"></div>
-    {{ site.posts.first.excerpt }}
-  </div>
+<div class="main-links">
+  <li><a href="https://kneelingbus.substack.com/">Newsletter</a></li>
+  <li><a href="https://kneelingbus.net/">Blog</a></li>
+  <li><a href="https://twitter.com/kneelingbus">Twitter</a></li>
 </div>
 
 <div class="home-section">
-  <h2>ABOUT ME</h2>
+  <h2>About Me</h2>
   <p>
     Drew Austin is [bio here].
   </p>
-</div>
 </div>
