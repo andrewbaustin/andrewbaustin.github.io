@@ -61,9 +61,11 @@ h2 {
   font-size: 2em;
   margin-bottom: 0.5em;
   margin-top: 1em;
+  text-transform: uppercase;
 }
 a {
-  color: #ed6e2f;
+  color: blue;
+  text-decoration: none;
 }
 a:hover {
   color: #fff;
@@ -72,27 +74,18 @@ p {
   font-size: 1em;
   line-height: 1.5;
 }
-.wrapper {
-  padding: 2em;
-}
-.main-links a {
-  text-decoration: none;
-}
 .main-links li {
   font-weight: bold;
   line-height: 2.5;
   list-style-type: none;
   text-transform: uppercase;
 }
-.main-section {
+.wrapper {
   max-width: 33em;
-}
-.main-section > h2 {
-  max-width: 33em;
-  text-transform: uppercase;
+  padding: 2em;
 }
 
-/* HEADER STYLES */
+/* HEADER/FOOTER STYLES */
 .header {
   padding-top: 2.5em;
   text-align: center;
@@ -114,7 +107,6 @@ p {
   font-size: 0.8rem;
   font-weight: bold;
   padding: 4px;
-  text-decoration: none;
   text-transform: uppercase;
 }
 .header-nav a:active,
