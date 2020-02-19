@@ -92,8 +92,17 @@ p {
   width: 100%;
 }
 .footer {
+  display: flex;
+}
+.foot-p {
+  width: 2.5%;
+}
+.footer-nav {
+  border-top: 1px solid gray;
+  padding-bottom: 4em;
+  padding-top: 1em;
   text-align: center;
-  width: 100%;
+  width: 95%;
 }
 .navlinks {
   padding: 5px;
@@ -109,8 +118,8 @@ p {
   padding: 4px;
   text-transform: uppercase;
 }
-.header-nav a:active,
-.header-nav a:hover {
+.navlinks a:active,
+.navlinks a:hover {
   background-color: blue;
   border-radius: 7px;
   color: #ed6e2f;
