@@ -74,11 +74,16 @@ p {
   font-size: 1em;
   line-height: 1.5;
 }
+
+/* BODY STYLES */
 .main-links li {
   font-weight: bold;
   line-height: 2.5;
   list-style-type: none;
   text-transform: uppercase;
+}
+p a {
+  font-weight: bold;  
 }
 .wrapper {
   max-width: 33em;
