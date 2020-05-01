@@ -52,8 +52,9 @@ body {
   color: #fff;
   font-family: helvetica, arial, sans;
 }
+
 h1 {
-  font-size: 4em;
+  font-size: 3em;
   margin: 0.25em;
   padding-top: 15px;
   text-transform: uppercase;
@@ -79,7 +80,7 @@ p {
 /* BODY STYLES */
 .main-links li {
   font-weight: bold;
-  line-height: 2.5;
+  line-height: 1.75;
   list-style-type: none;
   text-transform: uppercase;
 }
@@ -88,7 +89,9 @@ p a {
 }
 .wrapper {
   max-width: 33em;
+  padding-bottom: 3em;
   padding-left: 4em;
+  padding-top: 2em;
 }
 
 /* HEADER/FOOTER STYLES */
