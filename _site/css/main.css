@@ -59,18 +59,20 @@ a {
   font-weight: bold;
   text-decoration: none;
 }
+h4 {
+  font-weight: bold;
+  margin-bottom: 1em;
+  max-width: 33em;
+  text-transform: uppercase;
+}
 a:active,
 a:hover {
   color: #fff;
 }
-p, .post, .blogpost {
+article, p, .blogpost {
   line-height: 1.5;
   margin-bottom: 1em;
   max-width: 33em;
-}
-.head {
-  font-weight: bold;
-  text-transform: uppercase;
 }
 .special {
   background-color: blue;
