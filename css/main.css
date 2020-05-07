@@ -63,10 +63,9 @@ a:active,
 a:hover {
   color: #fff;
 }
-p {
+p, .post, .blogpost {
   line-height: 1.5;
   margin-bottom: 1em;
-  margin-top: 1em;
   max-width: 33em;
 }
 .head {
@@ -104,4 +103,33 @@ p {
   background-color: blue;
   color: white;
   padding: 4px;
+}
+
+/* BLOG */
+.twocolumn {
+  display: flex;
+}
+.sidebar {
+  flex: 0 0 15em;
+  order: 1;
+  text-align: right;
+}
+.blogcontent {
+  flex: 1;
+}
+.postlist {
+  list-style: none;
+}
+.postlist li ~ li {
+  margin-top: 1em;
+}
+.postlist span {
+  display: block;
+  font-size: 0.8em;
+  margin-top: 0.5em;
+}
+
+.blogpost ~ .blogpost {
+  border-top: 1px solid gray;
+  padding-top: 2em;
 }

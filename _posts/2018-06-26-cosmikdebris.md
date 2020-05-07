@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cosmik Debris
+title: Post One
 postFooter: Additional information, and maybe a <a href="#">link or two</a>
 ---
 
