@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Cosmik Debris
-postHero: /images/taxi.jpeg
-author: Drew Austin
-authorTwitter: https://twitter.com/kneelingbus
 postFooter: Additional information, and maybe a <a href="#">link or two</a>
 ---
 

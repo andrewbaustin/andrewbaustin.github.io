@@ -76,7 +76,7 @@ p {
 .special {
   background-color: blue;
   color: white;
-  padding: 4px;
+  padding: 3px;
 }
 .special:hover {
   color: red;
