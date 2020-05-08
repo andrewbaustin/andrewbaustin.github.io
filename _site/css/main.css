@@ -74,12 +74,12 @@ article, p, .blogpost {
   margin-bottom: 1em;
   max-width: 33em;
 }
-.special {
+.highlight {
   background-color: blue;
   color: white;
-  padding: 3px;
+  padding: 4px;
 }
-.special:hover {
+.highlight:hover {
   color: red;
 }
 
