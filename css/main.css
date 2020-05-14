@@ -71,8 +71,12 @@ a:hover {
 }
 article, p, .blogpost {
   line-height: 1.5;
-  margin-bottom: 1em;
+  margin-bottom: 0.6em;
   max-width: 33em;
+}
+.section {
+  line-height: 1.5;
+  margin-bottom: 1.3em;
 }
 .highlight {
   background-color: blue;
