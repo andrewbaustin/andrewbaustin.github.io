@@ -145,7 +145,7 @@ article, p, .blogpost {
   body {
     margin: 1.5em;
   }
-  a {
-    color: green;
+  a, .highlight {
+    color: #1E90FF;
   }
 }
