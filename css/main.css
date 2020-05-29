@@ -143,6 +143,9 @@ article, p, .blogpost {
 /* MOBILE */
 @media (max-width: 800px) {
   body {
-    margin: 1em;
-    }
+    margin: 1.5em;
+  }
+  a {
+    color: green;
+  }
 }
