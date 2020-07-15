@@ -1,0 +1,21 @@
+---
+layout: oldpost
+title: Speed Landscapes
+date: 2012-04-18
+excerpt_separator: <!--more-->
+postFooter: Additional information?
+---
+
+On Friday night, I spent five hours driving across Pennsylvania, mostly on the Pennsylvania Turnpike. During that stretch, we stopped twice at highway rest areas. Both were identical in every detail except for the people inside. There was a Roy Rogers in the same corner of each building.
+<p style="text-align:center;"><a href="http://kneelingbus.files.wordpress.com/2012/04/freeway5.jpg"><img class=" wp-image-148 aligncenter" style="border-style:initial;border-color:initial;border-width:0;margin:0;" title="freeway" src="http://kneelingbus.files.wordpress.com/2012/04/freeway5.jpg" alt="" width="531" height="531" /></a></p>
+Long-distance travel is more common now than ever before. Even for those who travel infrequently, most of what they buy, eat, and use (including information) reaches them from farther away than it once did. The technology to quickly and inexpensively move people and goods across vast stretches of the Earth’s surface has improved in great strides during the past two centuries, and society can barely adjust to these changes fast enough to keep up.
+
+The existence of two identical highway rest stops, separated by several hours and hundreds of miles, seems intended to disguise this condition. What could have made me feel less like I had covered any distance than walking through the door of the same building I had entered earlier that night? My experience between the two stops—barreling along featureless I-76 in the dark, warmly wrapped in familiar music and podcasts—did little to counteract that feeling.
+
+Transportation infrastructure has a unique opportunity to convey the vastness of landscapes and the exhilarating quality of traversing them at high speeds. It’s a challenge of design to make the most of that opportunity, and responses to that challenge include iconic buildings like Grand Central Station and Saarinen’s Terminal 5 at JFK. Premodern travel, powered by horse or sail, proceeded slowly enough that the traveler couldn’t help but know how far he had gone. Modernity has streamlined and accelerated movement to the point of disorientation, but the design of transportation infrastructure can help to reorient travelers at their points of departure and arrival, reminding them that one place is fundamentally different from another, though the travel time separating the two is always shrinking.
+
+Unlike the monumental transportation infrastructure of a prior era, the interstates were constructed entirely by engineers. As a result, they are optimized for efficiency—maximum speed and safety at minimum cost. Grand Central Station’s builders incorporated a human element that the highway builders neglected, as the additional expenses would have only made their numbers look worse. Much of the infrastructure to appear in the past half century has followed this course, creating the <a href="http://www.drclas.harvard.edu/files/Logistics-Landscape.pdf">logistics landscape</a> that architects study as outsiders rather than creative participants. Life in this environment encourages an attitude that Louis CK describes best, in which flying 2,500 miles in a matter of hours is experienced as frustrating rather than amazing.
+
+[youtube http://www.youtube.com/watch?v=8r1CZTLk-Gk&amp;w=420&amp;h=315]
+
+The US interstate highway system may be the earliest instance of high-speed transportation infrastructure that makes no attempt in its design to acknowledge the mobility it enables. Identical or near-identical highway rest stops are a common feature of this system: The Massachusetts Turnpike comprises a series of uniform travel plazas, and the Illinois Tollway’s overpass Oasis varies only in its fast food options. The reason for this uniformity is not hard to understand: A single design costs less than several. Aside from their symbology and signage (exits and mile markers), the interstate highways offer nothing to symbolize the thousands of miles they cross. The surrounding landscape is the only clue. Some planned variation in the layout or appearance of travel plazas, however subtle, could highlight the fact that places hundreds of miles apart are not, in fact, the same.

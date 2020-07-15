@@ -1,0 +1,15 @@
+---
+layout: oldpost
+title: Digital Music & Morality
+date: 2012-06-18
+excerpt_separator: <!--more-->
+postFooter: Additional information?
+---
+
+I follow a lot of musicians and music writers on Twitter. Today, many of them posted links to <a href="http://thetrichordist.wordpress.com/2012/06/18/letter-to-emily-white-at-npr-all-songs-considered/">this piece</a> by David Lowery (of the great Camper Van Beethoven), a rebuttal to an <a href="http://www.npr.org/blogs/allsongs/2012/06/16/154863819/i-never-owned-any-music-to-begin-with?sc=tw&amp;cc=twmp">NPR intern’s admission</a> that she hardly ever pays for the music she downloads. Of course she doesn’t pay for it, but the paths that this debate can follow are well worn: Wanting music to be free, or not, are usually self-explanatory positions.
+
+The interesting part of this debate occurs in Lowery’s rebuttal. He says that we’ve been asked to adjust our morality to fit technology, instead of relying upon morality to guide us through technological change. He’s correct that the new arrangement sucks for many people; however, he misses the mark with his more nuanced point. Nobody ever demanded that we change our morality or convinced us to do so. We just found a way to reproduce music at zero marginal cost, so what had been stealing no longer was, in a sense (although saying this opens the door to a tortuous semantic debate). People who download music still think it’s wrong to steal gum from 7-11, but they correctly understand file sharing as something else, and it’s a gray area that no past generations have faced.
+
+In a world dedicated to maximum technological progress, destabilization occurs constantly. History demonstrates that every major advance disrupts economic equilibrium and doles out massive rewards and penalties, yet our society can’t get enough of that progress. If we want to compensate musicians proportionally to how much their music is downloaded, we don’t need laws or ethical consumption habits—we need a completely different infrastructure for distributing that music. Spotify is the predictable outcome of the system we’ve built, and since that system relies upon digital connections instead of independent record stores, it’s not surprising that corporations dominate it.
+
+The writing has been on the wall for a long time: Music will only become cheaper. Ethical consumption habits and the equivalent of charitable donations are important, but they will never counteract the logic embedded in the Internet’s free flow of data, a logic that is at the very core of our present society whether we embrace it or not. If we want to protect musicians in the way Lowery describes, we should construct a new society that doesn’t disrupt its own technological equilibrium so gleefully. And I don’t say that sarcastically, but constructing a new society is hard work, or so I’ve heard.

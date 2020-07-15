@@ -1,0 +1,9 @@
+---
+layout: oldpost
+title: The Kid Is Back
+date: 2012-08-29
+excerpt_separator: <!--more-->
+postFooter: Additional information?
+---
+
+Kneeling Bus took the past month off for reasons including travel, moving apartments, and the dog days effect. Better to wave the white flag at August than put up a fight. But now Labor Day is looming large and Kneeling Bus is going back to school--which is to say, we are now redoubling our efforts (and by "we" I mean "I"). The kid is back!
