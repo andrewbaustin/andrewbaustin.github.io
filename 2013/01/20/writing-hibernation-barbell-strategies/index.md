@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Writing, Hibernation & Barbell Strategies 
 date: 2013-01-20
 excerpt_separator: <!--more-->

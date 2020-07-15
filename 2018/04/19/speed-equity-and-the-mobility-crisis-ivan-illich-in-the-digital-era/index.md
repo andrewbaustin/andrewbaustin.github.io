@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Speed, Equity, and the Mobility Crisis: Ivan Illich in the Digital Era
 date: 2018-04-19
 excerpt_separator: <!--more-->

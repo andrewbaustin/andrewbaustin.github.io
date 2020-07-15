@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Wormholes
 date: 2012-07-17
 excerpt_separator: <!--more-->

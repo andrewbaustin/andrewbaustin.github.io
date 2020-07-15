@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Cars, Clothes & Battlesuits
 date: 2016-12-13
 excerpt_separator: <!--more-->

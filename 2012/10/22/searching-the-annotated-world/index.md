@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Searching the Annotated World
 date: 2012-10-22
 excerpt_separator: <!--more-->

@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: The Human as Interface
 date: 2016-07-07
 excerpt_separator: <!--more-->

@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Career Advice
 date: 2012-07-26
 excerpt_separator: <!--more-->

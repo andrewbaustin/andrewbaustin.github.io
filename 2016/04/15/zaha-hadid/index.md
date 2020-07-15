@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Zaha Hadid
 date: 2016-04-15
 excerpt_separator: <!--more-->

@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Under the Interface
 date: 2016-03-10
 excerpt_separator: <!--more-->

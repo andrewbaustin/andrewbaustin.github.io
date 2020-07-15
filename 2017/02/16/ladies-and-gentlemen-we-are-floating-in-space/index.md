@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Ladies and Gentlemen We Are Floating in Space
 date: 2017-02-16
 excerpt_separator: <!--more-->

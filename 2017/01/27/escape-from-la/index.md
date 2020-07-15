@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Escape from LA
 date: 2017-01-27
 excerpt_separator: <!--more-->

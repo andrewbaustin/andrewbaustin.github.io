@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Buildings and What Happens Inside Them
 date: 2012-07-06
 excerpt_separator: <!--more-->

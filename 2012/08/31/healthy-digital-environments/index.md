@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Healthy Digital Environments
 date: 2012-08-31
 excerpt_separator: <!--more-->

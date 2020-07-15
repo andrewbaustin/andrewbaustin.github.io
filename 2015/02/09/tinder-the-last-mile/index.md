@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Tinder & the Last Mile
 date: 2015-02-09
 excerpt_separator: <!--more-->

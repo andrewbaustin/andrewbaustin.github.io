@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Digital Wastelands, Societies of Control
 date: 2015-09-28
 excerpt_separator: <!--more-->

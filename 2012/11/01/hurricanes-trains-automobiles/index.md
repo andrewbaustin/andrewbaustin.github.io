@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Hurricanes, Trains & Automobiles
 date: 2012-11-01
 excerpt_separator: <!--more-->

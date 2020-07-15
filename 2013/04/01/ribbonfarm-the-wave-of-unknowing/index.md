@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Ribbonfarm: The Wave of Unknowing
 date: 2013-04-01
 excerpt_separator: <!--more-->

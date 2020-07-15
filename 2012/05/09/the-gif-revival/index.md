@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: The GIF Revival
 date: 2012-05-09
 excerpt_separator: <!--more-->

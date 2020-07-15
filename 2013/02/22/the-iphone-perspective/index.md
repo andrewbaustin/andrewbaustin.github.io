@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: The iPhone Perspective
 date: 2013-02-22
 excerpt_separator: <!--more-->

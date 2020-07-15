@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Digital Music & Morality
 date: 2012-06-18
 excerpt_separator: <!--more-->

@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Disconnection Notice
 date: 2017-01-13
 excerpt_separator: <!--more-->

@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Invisible Maps, Beautiful Numbers
 date: 2016-08-31
 excerpt_separator: <!--more-->

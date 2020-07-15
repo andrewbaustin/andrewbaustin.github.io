@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: The Gilded Fishbowl
 date: 2016-02-05
 excerpt_separator: <!--more-->

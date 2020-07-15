@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Hot Tubs and the Weightless Internet
 date: 2012-04-05
 excerpt_separator: <!--more-->

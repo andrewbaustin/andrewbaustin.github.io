@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Room to Live
 date: 2014-09-25
 excerpt_separator: <!--more-->

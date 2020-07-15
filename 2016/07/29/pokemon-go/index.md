@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Pokémon Go
 date: 2016-07-29
 excerpt_separator: <!--more-->

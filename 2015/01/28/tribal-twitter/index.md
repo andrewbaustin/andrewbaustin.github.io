@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Tribal Twitter
 date: 2015-01-28
 excerpt_separator: <!--more-->

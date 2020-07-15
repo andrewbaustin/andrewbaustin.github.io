@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: 001
 date: 2012-03-08
 excerpt_separator: <!--more-->

@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Jane Jacobs, Human Capital & New York in the '70s
 date: 2012-11-08
 excerpt_separator: <!--more-->

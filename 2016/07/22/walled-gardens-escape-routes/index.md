@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Walled Gardens & Escape Routes
 date: 2016-07-22
 excerpt_separator: <!--more-->

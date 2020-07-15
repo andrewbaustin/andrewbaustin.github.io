@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Creative Nostalgia
 date: 2014-10-15
 excerpt_separator: <!--more-->

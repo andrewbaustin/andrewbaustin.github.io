@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Escapist Technology
 date: 2012-04-11
 excerpt_separator: <!--more-->

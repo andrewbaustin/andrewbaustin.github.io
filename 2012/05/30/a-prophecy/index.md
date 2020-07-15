@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: A Prophecy
 date: 2012-05-30
 excerpt_separator: <!--more-->

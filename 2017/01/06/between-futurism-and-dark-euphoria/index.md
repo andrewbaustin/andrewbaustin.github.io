@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Between Futurism and Dark Euphoria
 date: 2017-01-06
 excerpt_separator: <!--more-->

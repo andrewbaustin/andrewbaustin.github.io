@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Whit Stillman
 date: 2012-03-21
 excerpt_separator: <!--more-->

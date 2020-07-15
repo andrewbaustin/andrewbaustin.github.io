@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Code for the Heavy World
 date: 2015-10-22
 excerpt_separator: <!--more-->

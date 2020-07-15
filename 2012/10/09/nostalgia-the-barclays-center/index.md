@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Nostalgia & the Barclays Center
 date: 2012-10-09
 excerpt_separator: <!--more-->

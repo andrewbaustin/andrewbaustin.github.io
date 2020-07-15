@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: The Kid Is Back
 date: 2012-08-29
 excerpt_separator: <!--more-->

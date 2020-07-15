@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Post-Empire & the Brain
 date: 2015-01-17
 excerpt_separator: <!--more-->

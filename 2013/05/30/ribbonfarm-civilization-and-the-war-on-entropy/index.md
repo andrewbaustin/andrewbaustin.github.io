@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Ribbonfarm: Civilization and the War on Entropy
 date: 2013-05-30
 excerpt_separator: <!--more-->

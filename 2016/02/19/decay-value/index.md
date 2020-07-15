@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Decay Value
 date: 2016-02-19
 excerpt_separator: <!--more-->

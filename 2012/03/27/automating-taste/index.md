@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Automating Taste
 date: 2012-03-27
 excerpt_separator: <!--more-->

@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Filters, Trolls & Bots
 date: 2014-11-29
 excerpt_separator: <!--more-->

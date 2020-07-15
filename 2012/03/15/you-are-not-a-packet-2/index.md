@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: You Are Not a Packet
 date: 2012-03-15
 excerpt_separator: <!--more-->

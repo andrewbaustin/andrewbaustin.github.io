@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Los Angeles
 date: 2012-09-07
 excerpt_separator: <!--more-->

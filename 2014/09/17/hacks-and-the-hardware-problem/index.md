@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Hacks and the Hardware Problem
 date: 2014-09-17
 excerpt_separator: <!--more-->

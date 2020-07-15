@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: An Environment Smarter than You Are
 date: 2016-04-29
 excerpt_separator: <!--more-->

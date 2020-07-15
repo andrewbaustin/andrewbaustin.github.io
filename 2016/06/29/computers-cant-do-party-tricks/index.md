@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Computers Can't Do Party Tricks
 date: 2016-06-29
 excerpt_separator: <!--more-->

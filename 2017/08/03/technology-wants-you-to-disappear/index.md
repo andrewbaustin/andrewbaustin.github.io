@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Technology Wants You to Disappear
 date: 2017-08-03
 excerpt_separator: <!--more-->

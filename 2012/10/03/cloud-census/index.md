@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Cloud Census
 date: 2012-10-03
 excerpt_separator: <!--more-->

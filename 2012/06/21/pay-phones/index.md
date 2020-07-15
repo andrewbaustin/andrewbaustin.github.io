@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Pay Phones
 date: 2012-06-21
 excerpt_separator: <!--more-->

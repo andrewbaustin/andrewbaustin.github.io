@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Escaping the Field
 date: 2012-11-23
 excerpt_separator: <!--more-->

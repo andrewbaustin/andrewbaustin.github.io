@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Protest at the Edge of Borderlessness
 date: 2017-02-03
 excerpt_separator: <!--more-->

@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: @Horse_ebooks and Twitter, Growing Up Together
 date: 2012-04-09
 excerpt_separator: <!--more-->

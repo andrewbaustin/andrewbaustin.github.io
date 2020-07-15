@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Narrative Flash Crashes
 date: 2016-11-23
 excerpt_separator: <!--more-->

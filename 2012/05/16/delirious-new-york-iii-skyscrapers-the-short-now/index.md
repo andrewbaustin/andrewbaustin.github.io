@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Delirious New York III: Skyscrapers & the Short Now
 date: 2012-05-16
 excerpt_separator: <!--more-->

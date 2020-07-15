@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Speed Landscapes
 date: 2012-04-18
 excerpt_separator: <!--more-->

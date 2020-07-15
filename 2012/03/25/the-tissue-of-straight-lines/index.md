@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: The Tissue of Straight Lines
 date: 2012-03-25
 excerpt_separator: <!--more-->

@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: The Cruelty of Networks
 date: 2012-05-22
 excerpt_separator: <!--more-->

@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: A (Smart) City Is Not a Tree
 date: 2012-03-29
 excerpt_separator: <!--more-->

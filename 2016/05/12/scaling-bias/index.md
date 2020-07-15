@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Scaling Bias
 date: 2016-05-12
 excerpt_separator: <!--more-->

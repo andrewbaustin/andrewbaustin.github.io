@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Overprogrammed Cities
 date: 2012-04-26
 excerpt_separator: <!--more-->

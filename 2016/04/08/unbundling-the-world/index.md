@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Unbundling the World
 date: 2016-04-08
 excerpt_separator: <!--more-->

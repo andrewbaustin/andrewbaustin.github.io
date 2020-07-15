@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Cosmik Debris
 date: 2018-06-26
 excerpt_separator: <!--more-->

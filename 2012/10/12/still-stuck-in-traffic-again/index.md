@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Still Stuck in Traffic (Again)
 date: 2012-10-12
 excerpt_separator: <!--more-->

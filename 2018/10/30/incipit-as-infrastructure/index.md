@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Incipit as Infrastructure
 date: 2018-10-30
 excerpt_separator: <!--more-->

@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: On Escaping
 date: 2016-01-27
 excerpt_separator: <!--more-->

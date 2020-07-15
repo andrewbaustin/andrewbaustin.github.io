@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Delirious New York II: Coney Island & Poetic Technology
 date: 2012-05-02
 excerpt_separator: <!--more-->

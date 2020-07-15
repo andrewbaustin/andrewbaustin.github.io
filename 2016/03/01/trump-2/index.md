@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Trump
 date: 2016-03-01
 excerpt_separator: <!--more-->

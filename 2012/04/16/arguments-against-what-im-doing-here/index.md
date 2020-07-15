@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Arguments Against What I’m Doing Here
 date: 2012-04-16
 excerpt_separator: <!--more-->

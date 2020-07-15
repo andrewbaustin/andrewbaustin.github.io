@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Bored by Randomness
 date: 2016-10-14
 excerpt_separator: <!--more-->

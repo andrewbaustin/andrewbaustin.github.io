@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Gross Simplification
 date: 2012-09-09
 excerpt_separator: <!--more-->

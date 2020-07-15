@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Occupy Twitter
 date: 2016-09-13
 excerpt_separator: <!--more-->

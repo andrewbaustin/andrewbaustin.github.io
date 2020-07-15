@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Twitter is a Shrinking City
 date: 2016-02-11
 excerpt_separator: <!--more-->

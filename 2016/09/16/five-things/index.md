@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Five Things
 date: 2016-09-16
 excerpt_separator: <!--more-->

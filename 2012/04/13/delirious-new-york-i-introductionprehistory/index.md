@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Delirious New York I: Introduction/Prehistory
 date: 2012-04-13
 excerpt_separator: <!--more-->

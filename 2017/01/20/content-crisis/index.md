@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Content & Crisis
 date: 2017-01-20
 excerpt_separator: <!--more-->

@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: The Digital NIMBY
 date: 2016-06-10
 excerpt_separator: <!--more-->

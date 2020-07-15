@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: The Fat of the Land
 date: 2016-03-20
 excerpt_separator: <!--more-->

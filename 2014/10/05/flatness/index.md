@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Flatness
 date: 2014-10-05
 excerpt_separator: <!--more-->

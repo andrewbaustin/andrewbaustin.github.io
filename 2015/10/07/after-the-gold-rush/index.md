@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: After the Gold Rush
 date: 2015-10-07
 excerpt_separator: <!--more-->

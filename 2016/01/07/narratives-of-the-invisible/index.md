@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Narratives of the Invisible
 date: 2016-01-07
 excerpt_separator: <!--more-->

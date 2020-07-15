@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: The Meatspace City
 date: 2012-09-20
 excerpt_separator: <!--more-->

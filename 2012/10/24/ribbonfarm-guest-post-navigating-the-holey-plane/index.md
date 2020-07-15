@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Ribbonfarm Guest Post: Navigating the Holey Plane
 date: 2012-10-24
 excerpt_separator: <!--more-->

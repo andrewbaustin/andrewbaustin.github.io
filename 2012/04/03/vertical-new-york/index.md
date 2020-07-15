@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Vertical New York
 date: 2012-04-03
 excerpt_separator: <!--more-->

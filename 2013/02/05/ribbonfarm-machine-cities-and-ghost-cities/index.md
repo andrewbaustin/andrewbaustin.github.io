@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Ribbonfarm: Machine Cities and Ghost Cities
 date: 2013-02-05
 excerpt_separator: <!--more-->

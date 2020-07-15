@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Hanging Out in a Windowless Room
 date: 2012-04-23
 excerpt_separator: <!--more-->

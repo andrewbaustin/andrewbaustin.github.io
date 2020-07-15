@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Streams, Shapes & Junkspace
 date: 2016-01-22
 excerpt_separator: <!--more-->

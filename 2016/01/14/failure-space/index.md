@@ -1,5 +1,5 @@
 ---
-layout: oldpost
+layout: post
 title: Failure Space
 date: 2016-01-14
 excerpt_separator: <!--more-->
